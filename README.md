@@ -1,4 +1,4 @@
-# SQL_Pizza_Sales_Project
+# SQL|Pizza sales|Data Analysis|Project
 
 ## In this project I have utilized SQL queries to solve the questions related to pizza sales. 
 ## This  project typically involves analyzing data related to pizza orders, customers choice, Revenue and possibly preferred order time within a pizza restaurant or chain. 
