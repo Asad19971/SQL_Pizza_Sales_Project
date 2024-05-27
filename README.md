@@ -6,3 +6,5 @@
 ## This project could encompass tasks such as querying sales data to identify top-selling pizzas, calculating revenue by time period, and generating reports for management or marketing purposes. 
 ## Ultimately, the project aims to leverage SQL skills to drive business decisions and improve operational efficiency within the pizza sales domain.
 
+https://miro.medium.com/v2/resize:fit:640/format:webp/0*923a2F23zTm5hkep.jpg
+
